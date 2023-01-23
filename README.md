@@ -18,7 +18,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+---
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://easydong02.tistory.com/)](https://easydong02.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:easydong02@gmail.com)](mailto:easydong02@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:easydong02@naver.com)](mailto:easydong02@naver.com)
+
+---
+### 📖 Experiences
+<pre>
+2022.12 ~ :         <b>Inzisoft</b> backend dev.
+2022.07 ~ 2022.12:  <b>SSAFY</b> first semester
+2022.02 ~ 2022.07:  <b>Yeardream</b> AI training program
+2021.08 ~ 2022.01:  <b>Backend</b> training program
+</pre>
