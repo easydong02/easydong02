@@ -1,6 +1,6 @@
 ## 매일이 우상향, 신동희! 📈
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easydong02)](https://solved.ac/easydong02/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easydong02&show_icons=true&theme=transparent)
 
