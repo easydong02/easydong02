@@ -29,5 +29,5 @@
 2022.12 ~ :         <b>Inzisoft</b> backend dev.
 2022.07 ~ 2022.12:  <b>SSAFY</b> first semester
 2022.02 ~ 2022.07:  <b>Yeardream</b> AI training program
-2021.08 ~ 2022.01:  <b>KOREA IT</b> Backend training program
+2021.08 ~ 2022.01:  <b>KOREAIT</b> Backend training program
 </pre>
