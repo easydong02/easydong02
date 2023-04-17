@@ -28,6 +28,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:easydong02@naver.com)](mailto:easydong02@naver.com)
 [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://cooing-physician-f66.notion.site/d254cb9495cf4ad8995eacada18c8238)](https://cooing-physician-f66.notion.site/d254cb9495cf4ad8995eacada18c8238)
 
+
 ## 📖 Experiences
 <pre>
 2022.12 ~ :         <b>Inzisoft</b> backend dev.
