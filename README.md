@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://easydong02.tistory.com/)](https://easydong02.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://easydong02.github.io/)](https://easydong02.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:easydong02@gmail.com)](mailto:easydong02@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:easydong02@naver.com)](mailto:easydong02@naver.com)
 [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://cooing-physician-f66.notion.site/d254cb9495cf4ad8995eacada18c8238)](https://cooing-physician-f66.notion.site/d254cb9495cf4ad8995eacada18c8238)
