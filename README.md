@@ -12,6 +12,8 @@
 ![Linux](https://img.shields.io/badge/Linux-F0FFFF.svg?&style=for-the-badge&logo=Linux&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
+![JPA](https://img.shields.io/badge/JPA-998A00.svg?&style=for-the-badge&logo=jpa&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-368AFF.svg?&style=for-the-badge&logo=querydsl&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Mssql](https://img.shields.io/badge/Mssql-808080.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
