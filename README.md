@@ -4,6 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easydong02&show_icons=true&theme=transparent)
 
+![aws-certified-solutions-architect-associate](https://github.com/easydong02/Devops/assets/82931413/2bf4db7b-ea48-4d03-9583-ce4b5b0e728d)
 
 ## 🛠️ Stacks
 
