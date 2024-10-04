@@ -4,7 +4,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easydong02&show_icons=true&theme=transparent)
 
-![aws-certified-solutions-architect-associate](https://github.com/easydong02/Devops/assets/82931413/2bf4db7b-ea48-4d03-9583-ce4b5b0e728d)
+![aws-certified-solutions-architect-associate](https://github.com/easydong02/Devops/assets/82931413/2bf4db7b-ea48-4d03-9583-ce4b5b0e728d) ![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/c51d3983-2696-47f5-85fb-d758816078ec)
+
+
+
 
 ## 🛠️ Stacks
 
