@@ -2,7 +2,8 @@
 
 ## 📖 Experiences
 <pre>
-2022.12 ~ :         <b>Inzisoft</b> RPA Solution backend dev.
+2025.11 ~ :         <b>ShinhanDS</b> Kubernetes Cluster Ops.
+2022.12 ~ 2025.11:  <b>Inzisoft</b> RPA Solution backend dev.
 2022.07 ~ 2022.12:  <b>SSAFY</b> first semester
 2022.02 ~ 2022.07:  <b>Yeardream</b> AI training program
 2021.08 ~ 2022.01:  <b>KOREAIT</b> Backend training program
