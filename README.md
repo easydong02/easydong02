@@ -9,7 +9,7 @@
 2021.08 ~ 2022.01:  <b>KOREAIT</b> Backend training program
 </pre>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easydong02)](https://solved.ac/easydong02/) ![aws-certified-solutions-architect-associate](https://github.com/easydong02/Devops/assets/82931413/2bf4db7b-ea48-4d03-9583-ce4b5b0e728d) ![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/c51d3983-2696-47f5-85fb-d758816078ec)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easydong02)](https://solved.ac/easydong02/) ![aws-certified-solutions-architect-associate](https://github.com/easydong02/Devops/assets/82931413/2bf4db7b-ea48-4d03-9583-ce4b5b0e728d) ![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/c51d3983-2696-47f5-85fb-d758816078ec) ![Certified Kubernetes Security Specialist](https://github.com/user-attachments/assets/32274396-a426-433c-b770-9465ac9df35b)
 
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://easydong02.github.io/)](https://easydong02.github.io/)
